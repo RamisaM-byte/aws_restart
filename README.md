@@ -1,4 +1,4 @@
-# 🧠 AWS Re/Start Labs
+# AWS Re/Start Labs
 
 Welcome! This repository contains my work from the **AWS Re/Start** course 
 
@@ -38,6 +38,22 @@ A collection of beginner-friendly Python scripts — messy in the best way (beca
 | `net-charge.py`               | Calculating net charge of amino acids       |
 
 ---
+
+## 🛠️ Skills Demonstrated
+
+- Writing clean, modular Python code
+- Using Python’s built-in data types and control structures
+- File handling with text and JSON formats
+- Applying basic debugging techniques
+- Simulating sysadmin tasks via scripting
+
+---
+
+## 📄 Documentation Practice
+
+- Each script includes in-line comments to explain logic and functionality  
+- Organized filenames and lab numbering for clear navigation  
+- This README provides an overview of the content, context, and learning objectives
 
 ## 📌 Why This Repo?
 
